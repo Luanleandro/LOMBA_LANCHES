@@ -50,3 +50,22 @@ lombardi-lanches/
 │ └── entregador/
 ├── docs/
 └── README.md
+
+## 📌 Funcionalidades Futuras
+
+- Pagamento integrado (Pix / Cartão)
+- Chat em tempo real entre entregador e cliente
+- Avaliações e feedback
+- Geolocalização
+
+## 🧑‍💻 Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+**Lombardi Lanches - O sabor que vem até você!**
