@@ -39,3 +39,14 @@ O Lombardi Lanches é uma plataforma de pedidos online que permite:
 
 ## 📦 Estrutura do Projeto (Proposta)
 
+lombardi-lanches/
+├── backend/
+│ ├── src/
+│ ├── routes/
+│ └── controllers/
+├── mobile/
+│ ├── cliente/
+│ ├── restaurante/
+│ └── entregador/
+├── docs/
+└── README.md
