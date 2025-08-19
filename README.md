@@ -4,11 +4,13 @@ Bem-vindo ao repositório do **Lomba Lanches**, um aplicativo de delivery simple
 
 ## 🚀 Visão Geral
 
-O Lomba Lanches é uma plataforma de pedidos online que permite:
+O **Lomba Lanches** é uma plataforma de pedidos online que permite:
 
 - 🍽 Restaurantes cadastrarem seus produtos, gerenciarem cardápios e acompanharem pedidos.
 - 🧑‍💻 Clientes visualizarem restaurantes, fazerem pedidos e acompanharem o status em tempo real.
 - 🛵 Entregadores visualizarem entregas disponíveis, aceitarem corridas e finalizarem entregas.
+
+---
 
 ## 👥 Perfis de Usuário
 
@@ -27,40 +29,64 @@ O Lomba Lanches é uma plataforma de pedidos online que permite:
 - Aceitação de pedidos
 - Atualização do status da entrega (em rota, entregue)
 
+---
+
 ## 🛠 Tecnologias Utilizadas
 
-> _Tecnologias sujeitas a alteração conforme o desenvolvimento evolui_
+> _Tecnologias definidas para o projeto_
 
-- **Frontend:** React Native / Flutter / Expo
-- **Backend:** Node.js + Express ou NestJS
-- **Banco de Dados:** MongoDB / PostgreSQL
-- **Autenticação:** JWT
-- **Deploy:** Vercel / Railway / Render / Firebase
+- **Frontend:** React
+- **Backend:** Flask (Python)
+- **Banco de Dados:** MySQL
+- **Autenticação:** JWT (JSON Web Tokens)
+- **Deploy:** (A definir — possibilidades: Vercel, Render, Railway, etc.)
+
+---
 
 ## 📦 Estrutura do Projeto (Proposta)
 
-Lomba-lanches/
+```
+lomba-lanches/
 ├── backend/
-│ ├── src/
-│ ├── routes/
-│ └── controllers/
-├── mobile/
-│ ├── cliente/
-│ ├── restaurante/
-│ └── entregador/
+│ ├── app/
+│ │ ├── controllers/
+│ │ ├── models/
+│ │ ├── routes/
+│ │ └── utils/
+│ └── main.py
+├── frontend/
+│ ├── public/
+│ └── src/
+│ ├── components/
+│ ├── pages/
+│ ├── services/
+│ └── App.jsx
 ├── docs/
 └── README.md
+```
+
+---
 
 ## 📌 Funcionalidades Futuras
 
-- Pagamento integrado (Pix / Cartão)
-- Chat em tempo real entre entregador e cliente
-- Avaliações e feedback
-- Geolocalização
+- 💳 Pagamento integrado (Pix / Cartão)
+- 💬 Chat em tempo real entre cliente e entregador
+- ⭐ Avaliações e feedback
+- 📍 Geolocalização de entregadores
+- 🔔 Notificações em tempo real
+
+---
 
 ## 🧑‍💻 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
+Contribuições são muito bem-vindas!  
+Você pode:
+
+- Abrir **issues** com sugestões, bugs ou melhorias.
+- Enviar um **pull request** com uma nova feature ou correção.
+- Discutir ideias na aba **discussions** (se habilitada).
+
+---
 
 ## 📄 Licença
 
@@ -68,4 +94,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Lomba Lanches - O sabor que vem até você!**
+**Lomba Lanches — O sabor que vem até você!**
+
