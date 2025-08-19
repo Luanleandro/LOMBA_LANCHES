@@ -1,10 +1,10 @@
-# 🍔 Lomba Lanches
+# 🍔 Lombra Delivery
 
-Bem-vindo ao repositório do **Lomba Lanches**, um aplicativo de delivery simples e funcional, inspirado no iFood, com o objetivo de conectar **restaurantes**, **clientes** e **entregadores** de forma prática, rápida e segura.
+Bem-vindo ao repositório do **Lombra Delivery**, um aplicativo de delivery simples e funcional, inspirado no iFood, com o objetivo de conectar **restaurantes**, **clientes** e **entregadores** de forma prática, rápida e segura.
 
 ## 🚀 Visão Geral
 
-O **Lomba Lanches** é uma plataforma de pedidos online que permite:
+O **Lombra Delivery** é uma plataforma de pedidos online que permite:
 
 - 🍽 Restaurantes cadastrarem seus produtos, gerenciarem cardápios e acompanharem pedidos.
 - 🧑‍💻 Clientes visualizarem restaurantes, fazerem pedidos e acompanharem o status em tempo real.
@@ -91,4 +91,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Lomba Lanches — O sabor que vem até você!**
+**Lombra Delivery — O sabor que vem até você!**
