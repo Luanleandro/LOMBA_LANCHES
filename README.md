@@ -1,10 +1,10 @@
-# 🍔 Lombardi Lanches
+# 🍔 Lomba Lanches
 
-Bem-vindo ao repositório do **Lombardi Lanches**, um aplicativo de delivery simples e funcional, inspirado no iFood, com o objetivo de conectar **restaurantes**, **clientes** e **entregadores** de forma prática, rápida e segura.
+Bem-vindo ao repositório do **Lomba Lanches**, um aplicativo de delivery simples e funcional, inspirado no iFood, com o objetivo de conectar **restaurantes**, **clientes** e **entregadores** de forma prática, rápida e segura.
 
 ## 🚀 Visão Geral
 
-O Lombardi Lanches é uma plataforma de pedidos online que permite:
+O Lomba Lanches é uma plataforma de pedidos online que permite:
 
 - 🍽 Restaurantes cadastrarem seus produtos, gerenciarem cardápios e acompanharem pedidos.
 - 🧑‍💻 Clientes visualizarem restaurantes, fazerem pedidos e acompanharem o status em tempo real.
@@ -39,7 +39,7 @@ O Lombardi Lanches é uma plataforma de pedidos online que permite:
 
 ## 📦 Estrutura do Projeto (Proposta)
 
-lombardi-lanches/
+Lomba-lanches/
 ├── backend/
 │ ├── src/
 │ ├── routes/
@@ -68,4 +68,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Lombardi Lanches - O sabor que vem até você!**
+**Lomba Lanches - O sabor que vem até você!**
