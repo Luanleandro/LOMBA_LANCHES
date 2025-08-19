@@ -44,8 +44,7 @@ O **Lomba Lanches** é uma plataforma de pedidos online que permite:
 ---
 
 ## 📦 Estrutura do Projeto (Proposta)
-
-```
+``` 
 lomba-lanches/
 ├── backend/
 │ ├── app/
@@ -64,8 +63,6 @@ lomba-lanches/
 ├── docs/
 └── README.md
 ```
-
----
 
 ## 📌 Funcionalidades Futuras
 
@@ -95,4 +92,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 **Lomba Lanches — O sabor que vem até você!**
-
