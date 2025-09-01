@@ -1,0 +1,109 @@
+/* Reset simples */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fef2f2;
+}
+
+.login-container {
+  display: flex;
+  height: 100vh;
+  justify-content: flex-end; /* empurra todos os itens para a direita */
+  align-items: center; /* opcional: centraliza verticalmente */
+  padding-right: 580px; /* distância da borda direita */
+}
+
+  
+
+.login-left {
+  flex: 1;
+  background-color: #fde8e8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 120px;
+}
+
+.illustration {
+  width: 70%;
+  max-width: 350px;
+}
+
+.login-right {
+  width: 400px; /* largura fixa */
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px;
+  box-shadow: -4px 0 10px rgba(0, 0, 0, 0.1);
+  margin-right: 80px; /* joga mais para a direita */
+  border-radius: 10px;
+}
+
+.login-right h1 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.login-right p {
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.facebook {
+  background-color: #1877f2;
+  color: white;
+}
+
+.google {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border: 1px solid #ddd;
+  color: #333;
+}
+
+.google .icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+}
+
+.outline {
+  flex: 1;
+  background-color: white;
+  border: 1px solid #ddd;
+  color: #333;
+}
+
+.outline:hover, .google:hover, .facebook:hover {
+  opacity: 0.9;
+}
