@@ -1,0 +1,65 @@
+.email-page-container {
+  display: flex;
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f7f3f6;
+  box-sizing: border-box;
+}
+.email-form-card {
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 450px;
+  text-align: center;
+}
+
+.form-title {
+  color: #333;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.email-input {
+  width: calc(100% - 20px);
+  padding: 12px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  transition: border-color 0.3s;
+}
+
+.email-input:focus {
+  outline: none;
+  border-color: #ea1d2c; /* Cor do iFood */
+}
+
+.privacy-text {
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 25px;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.continue-btn {
+  width: 100%;
+  padding: 15px;
+  background-color: #ea1d2c; /* Cor principal do iFood */
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.continue-btn:hover {
+  background-color: #d11a2b; /* Tom mais escuro ao passar o mouse */
+}
